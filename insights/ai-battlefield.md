@@ -265,7 +265,7 @@ As of this writing here are the most common accelerators that can be used for tr
 
 Widely available:
 
-  * NVIDIA H200s are gradually replacing A100s and H100s. H200s have more of and a more efficient High Bandwidth Memory (HBM) and thus make them more cost-effective than H100s.
+  * NVIDIA H200s are gradually replacing A100s and H100s. H200s have more of and a more efficient [High Bandwidth Memory](https://en.wikipedia.org/wiki/High_Bandwidth_Memory) (HBM) and thus make them more cost-effective than H100s.
 
 Available, but locks you in:
 
